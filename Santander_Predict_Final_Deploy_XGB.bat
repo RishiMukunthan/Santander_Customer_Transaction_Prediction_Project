@@ -1,0 +1,1 @@
+"C:\Program Files\R\R-4.0.0\bin\R.exe" CMD BATCH "C:\Users\RISHI MUKUNTHAN\Desktop\Data Science\Projects\Edwisor_Santander_Customer_Transaction\Submission\Deployment R Scripts\Santander_Predict_Final_Deploy_XGB.R"
